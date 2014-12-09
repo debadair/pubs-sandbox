@@ -1,6 +1,6 @@
-= A Poison Tree
+== A Poison Tree
 
-_BY WILLIAM BLAKE_
+_By William Blake_
 
 I was angry with my friend; 
 I told my wrath, my wrath did end.
