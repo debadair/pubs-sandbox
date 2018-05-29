@@ -13,7 +13,7 @@
 [[Install X-Pack into Kibana.|https://www.elastic.co/guide/en/kibana/5.6/installing-xpack-kb.html
 [[Upgrade Logstash to 5.6.|https://www.elastic.co/guide/en/logstash/5.6/upgrading-logstash.html
 [[Install X-Pack into Logstash.|https://www.elastic.co/guide/en/logstash/5.6/installing-xpack-log.html
-[[Upgrade each beat to 5.6 and restart them.|https://www.elastic.co/guide/en/beats/libbeat/5.6/upgrading-5-to-6.html#upgrading-to-5.6
+[[Upgrade each beat to 5.6 and restart them.|https://www.elastic.co/guide/en/beats/libbeat/6.3/upgrading-5-to-6.html#upgrading-to-5.6
 [[Upgrade Elasticsearch for Hadoop to 5.6.|https://www.elastic.co/guide/en/elasticsearch/hadoop/5.6/install.html\
 [[Stop any running Machine Learning jobs.|https://www.elastic.co/guide/en/elastic-stack-overview/6.3/stopping-ml.html
 [[Upgrade Elasticsearch for Hadoop to 6.3.|https://www.elastic.co/guide/en/elasticsearch/hadoop/6.3/install.html
@@ -52,4 +52,5 @@
 [[Upgrade Logstash to 6.3.|https://www.elastic.co/guide/en/logstash/6.3/upgrading-logstash.html
 [[Upgrade each beat to 6.3 and restart them.|https://www.elastic.co/guide/en/beats/libbeat/6.3/upgrading-minor-versions.html
 [[Upgrade Elasticsearch for Hadoop to 6.3.|https://www.elastic.co/guide/en/elasticsearch/hadoop/6.3/install.html
-
+[[Back up your data.|https://www.elastic.co/guide/en/elasticsearch/reference/6.3/modules-snapshots.html
+[[Check the Elasticsearch deprecation log.|https://www.elastic.co/guide/en/elasticsearch/reference/6.3/settings.html#deprecation-logging</tw-passagedata></tw-storydata></div>
